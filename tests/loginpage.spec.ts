@@ -13,7 +13,7 @@ test(`login user -${data.username}`, async ({ page, loginpage }) => {
          data.password
     );
     await page.context().storageState({
-        path: 'auth.json'
+        path: 'session.json'
     });
 });
  
