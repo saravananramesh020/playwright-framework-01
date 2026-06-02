@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "student",
+      "password": "Password123"
+    },
+    {
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "username": "wrong",
+      "password": "wrong123"
+    }
+  ]
+}
